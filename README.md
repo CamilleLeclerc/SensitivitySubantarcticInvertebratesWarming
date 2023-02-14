@@ -1,5 +1,6 @@
 # SensitivitySubantarcticInvertebratesWarming
-📦 Data and R code to explore sensitivity of subantarctic invertebrates to warming used in [Renault *et al.* (2022)](https://doi.org/10.1111/gcb.16338). [![DOI](https://zenodo.org/badge/511771874.svg)](https://zenodo.org/badge/latestdoi/511771874)
+📦 Data and R code to explore sensitivity of subantarctic invertebrates to warming used in [Renault *et al.* (2022)](https://doi.org/10.1111/gcb.16338).  
+[![DOI](https://zenodo.org/badge/511771874.svg)](https://zenodo.org/badge/latestdoi/511771874)
 
 ---
 # Goal
